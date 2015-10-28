@@ -22,21 +22,23 @@ content="width=device-width,initial-scale=1">
 
 <body>
 
+ <h1> Pretolani Matteo
+     <!--titolo-->
+ </h1>
+ 
 <header role=banner">
 
 </header>
 
 <nav role="navigation">
-
+ <u1>
+   <li> <a href="#Hobby"> Hobby </a> </li>
+   <li> <a href="#Città"> Città visitate </a> </li>
 </nav>
 
-<p>
-
-Ciao sono Matteo ho 29 anni
-
-<!--breve descrizione-->
-
-</p>
+ <p> Ciao sono Matteo ho 29 anni e sono di Cesena.
+      <!--breve descrizione-->
+ </p>
 
 <article>
 
@@ -47,6 +49,9 @@ Ciao sono Matteo ho 29 anni
 </aside>
 
 <Footer role="contentinfo">
+
+ <p> &copy; 2015 MP86
+ </p>
 
 </footer>
 
