@@ -22,6 +22,14 @@ content="width=device-width,initial-scale=1">
 
 <body>
 
+<header role=banner">
+
+</header>
+
+<nav role="navigation">
+
+</nav>
+
 <p>
 
 Ciao sono Matteo ho 29 anni
@@ -29,6 +37,19 @@ Ciao sono Matteo ho 29 anni
 <!--breve descrizione-->
 
 </p>
+
+<article>
+
+</article>
+
+<aside role="complementary">
+
+</aside>
+
+<Footer role="contentinfo">
+
+</footer>
+
 
 </body>
 
