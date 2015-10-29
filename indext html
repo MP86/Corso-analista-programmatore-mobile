@@ -14,7 +14,8 @@ Pretolani Matteo
 content="width=device-width,initial-scale=1">
 
 <!--[ifltle9]>
-<script src="https://ednjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js">
+<script src="https://ednjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/
+        html5shiv.js">
 </script>
 <![endif]-->
 
@@ -74,12 +75,14 @@ content="width=device-width,initial-scale=1">
  </article>
  
 <aside role="complementary" id="Hobby">
-   <h2> Hobby </h2>
+   <h2> Hobby: </h2>
  
    <ul> <li> <h3> Elimodellismo </h3>
-             <a href="http://ilmiomodellismo.jimdo.com/"> I miei elicotteri 
+             <a href="http://ilmiomodellismo.jimdo.com/"> I miei 
+			 elicotteri 
 			 </a>
-			 <p>Link del sito che ho appena creato, spero sempre in evoluzione,
+			 <p>Link del sito che ho appena creato, spero sempre in 
+			 evoluzione,
 			 nel quale "recensisco" i miei modellini.
 			 </p>
 		</li>
@@ -95,11 +98,50 @@ content="width=device-width,initial-scale=1">
    
 </aside>
 
-<article id="Città">
- <h2> Città visitate </h2>
-  <li>
-  </li>
-</article>
+<aside role="complementary" id="Città">
+ <h2> Città visitate: </h2>
+  <ol>
+    <li> Toscana <p> (Italia) <br/>
+	2015 </p>
+	</li>
+	<li> Amsterdam <p> (Paesi Bassi) <br/>
+	2014 </p>
+	</li>
+	<li> Malta <p> (Republica di Malta) <br/>
+	2013 </p>
+	</li>
+	<li> Stoccolma <p> (Svezia) <br/>
+	2013 </p>
+	</li>
+	<li> Malaga, Siviglia, Madrid <p> (Spagna) <br/>
+	2013 </p>
+	</li>
+	<li> Berlino <p> (Germania) <br/>
+	2013 </p>
+	</li>
+	<li> Barcellona <p> (Spagna) <br/>
+	2012 </p>
+	</li>
+	<li> Garda <p> (Italia) <br/>
+	2012 </p>
+	</li>
+	<li> Abano Terme <p> (Italia) <br/>
+	2011/2012 </p>
+	</li>
+	<li> Roma <p> (Italia) <br/>
+	2011 </p>
+	</li>
+  </ol>
+</aside>
+
+<div>
+
+<h3> Le mie preferite perchè: </h3>
+
+<table><tr> 1 <td> città </tr> stoccolma </td> descrizione
+</table>
+
+</div>
 
 <hr/>
 
