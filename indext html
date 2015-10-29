@@ -1,82 +1,59 @@
-<!doctipe html>
+<!doctype html>
 <html lang="it">
-
    <head>
-
        <title>
-
          Pretolani Matteo
-
        </title>
-
         <meta charset="utf-8">
         <meta name="viewport"
         content="width=device-width,initial-scale=1">
-
                <!--[ifltle9]>
               <script src="https://ednjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/
                html5shiv.js">
               </script>
               <![endif]-->
-
    </head>
-
    <body>
-
           <h1> Pretolani Matteo
                <!--titolo-->
            </h1>
- 
-         <header role=banner">
-
+         <header role="banner">
                 <nav role="navigation">
-                    <u1>
+                    <ul>
                      <li> <a href="#Biografia"> Biografia </a> </li>
                      <li> <a href="#Hobby"> Hobby </a> </li>
                      <li> <a href="#Città"> Città visitate </a> </li>
                        <!-- indice-->
-                    </u1>
+                    </ul>
                 </nav>
-
           </header>
-
           <article id="Biografia">
                <h2>Pretolani Matteo
                </h2>
-               <p> <form>Ciao sono Matteo ho 29 anni e sono nato a       
- 
+               <p> Ciao sono Matteo ho 29 anni e sono nato a       
                   <a href="https://it.wikipedia.org/wiki/Cesena"> Cesena.
 	              </a>
-	              </form>
                   <!--collegamento-->
-	
 	              Residente a 
-	 
 	               <span> Bora Basa
 	               </span>
-	 
-	              di <a href="https://it.wikipedia.org/wiki/Mercato_Saraceno">
-	              Mercato Saraceno 
-	              </a>
+	                 di <a href="https://it.wikipedia.org/wiki/Mercato_Saraceno">
+	                     Mercato Saraceno 
+	                 </a>
 	                 (
-	              <a href="https://www.google.it/maps/place/
-	               Provincia+di+Forl%C3%AC-Cesena/@44.0342884,11.4910595,9z/
-	               data=!3m1!4b1!4m2!3m1!1s0x132b6039b485f3f3:0x3079b0bfcba7fe0">
-	               FC 
+	              <a href="https://www.google.it/maps/place/Provincia+di+Forl%C3%AC-Cesena/@44.0342884,11.4910595,9z/data=!3m1!4b1!4m2!3m1!1s0x132b6039b485f3f3:0x3079b0bfcba7fe0">
+	                   FC 
 	              </a>
 	                ), attualmente sto frequentando un corso come 
-	              analista programmatore mobile. Ho un fratello minore di nome 
+	                analista programmatore mobile. Ho un fratello minore di nome 
 	                <span> Luca </span>
 	              che convive e ha un figlio di nome 
 	              <span> Pietro </span> 
 	               che è ancora un pò il mio "passatempo" preferito.
-	 
                </p>
            </article>
- 
            <aside role="complementary" id="Hobby">
                <h2> Hobby: </h2>
- 
              <ul> <li> <h3> Elimodellismo </h3>
                      <a href="http://ilmiomodellismo.jimdo.com/"> I miei 
 			           elicotteri 
@@ -95,9 +72,7 @@
 			          <p>Link del mio sito preferito per le serie </p>
 		            </li>
                </ul>	
-   
            </aside>
-
            <aside role="complementary" id="Città">
                <h2> Città visitate: </h2>
                <ol>
@@ -132,34 +107,14 @@
 	             2011 </p>
 	             </li>
                </ol>
-           </aside>
-
+           </aside
             <div>
-
-             <h3> Le mie preferite perchè: </h3>
-
-                <table><tr> 1 <td> città </tr> stoccolma </td> descrizione
-                </table>
-
+             <h3> Le mie preferite perchè: </h3
             </div>
-
            <hr/>
-
            <Footer role="contentinfo">
-
                <p> &copy; 2015 MP86
                </p>
-
            </footer>
-
-
        </body>
-
-
-
-
-
-
-
-
 </html>
