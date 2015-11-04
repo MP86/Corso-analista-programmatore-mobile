@@ -1,0 +1,122 @@
+<!Doctype html>
+<html lang="it">
+   <head>
+       <title>
+         Pretolani Matteo
+       </title>
+        <meta charset="utf-8">
+        <meta name="viewport"> </meta>
+		<link rel="stylesheet" href="mio1css.css">
+             <content="width=device-width,initial-scale=1">
+               <!--[ifltle9]>
+              <script src="https://ednjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/
+               html5shiv.js">
+              </script>
+              <![endif]-->
+   </head>
+   
+   <body>
+          <h1> Pretolani Matteo
+               <!--titolo-->
+           </h1>
+         <header role="banner">
+                <nav role="navigation">
+                    <ul>
+                     <li> <a href="#Biografia"> Biografia </a> </li>
+                     <li> <a href="#Hobby"> Hobby </a> </li>
+                     <li> <a href="#Città"> Città visitate </a> </li>
+                       <!-- indice-->
+                    </ul>
+                </nav>
+          </header>
+          <article id="Biografia">
+               <h2>Pretolani Matteo
+               </h2>
+               <p> Ciao sono Matteo ho 29 anni e sono nato a       
+                  <a href="https://it.wikipedia.org/wiki/Cesena"> Cesena.
+	              </a>
+                  <!--collegamento-->
+	              Residente a 
+	               <span> Bora Basa
+	               </span>
+	                 di <a href="https://it.wikipedia.org/wiki/Mercato_Saraceno">
+	                     Mercato Saraceno 
+	                 </a>
+	                 (
+	              <a href="https://www.google.it/maps/place/Provincia+di+Forl%C3%AC-Cesena/@44.0342884,11.4910595,9z/data=!3m1!4b1!4m2!3m1!1s0x132b6039b485f3f3:0x3079b0bfcba7fe0">
+	                   FC 
+	              </a>
+	                ), attualmente sto frequentando un corso come 
+	                analista programmatore mobile. Ho un fratello minore di nome 
+	                <span> Luca </span>
+	              che convive e ha un figlio di nome 
+	              <span> Pietro </span> 
+	               che è ancora un pò il mio "passatempo" preferito.
+               </p>
+           </article>
+           <aside role="complementary" id="Hobby">
+               <h2> Hobby: </h2>
+             <ul> <li> <h3> Elimodellismo </h3>
+                     <a href="http://ilmiomodellismo.jimdo.com/"> I miei 
+			           elicotteri 
+			            </a>
+			            <p>Link del sito che ho appena creato, spero sempre in 
+			              evoluzione,
+			              nel quale "recensisco" i miei modellini.
+			            </p>
+		            </li>
+                    <li> <h3> Film </h3>
+		                <a href="http://www.cb01.eu/"> CB01 </a>
+			           <p>Link del mio sito preferito per i film </p>
+	                </li>
+		            <li> <h3> Serie tv </h3>
+     		          <a href="http://eurostreaming.tv/"> Eurostreaming </a>
+			          <p>Link del mio sito preferito per le serie </p>
+		            </li>
+               </ul>	
+           </aside>
+           <aside role="complementary" id="Città">
+               <h2> Città visitate: </h2>
+               <ol>
+                 <li> Toscana <p> (Italia) <br/>
+	             2015 </p>
+	             </li>
+	             <li> Amsterdam <p> (Paesi Bassi) <br/>
+	             2014 </p>
+	             </li>
+	             <li> Malta <p> (Republica di Malta) <br/>
+	             2013 </p>
+	             </li>
+	             <li> Stoccolma <p> (Svezia) <br/>
+	             2013 </p>
+	             </li>
+	             <li> Malaga, Siviglia, Madrid <p> (Spagna) <br/>
+	             2013 </p>
+	             </li>
+	             <li> Berlino <p> (Germania) <br/>
+	             2013 </p>
+	             </li>
+	             <li> Barcellona <p> (Spagna) <br/>
+	             2012 </p>
+	             </li>
+	             <li> Garda <p> (Italia) <br/>
+	             2012 </p>
+	             </li>
+	             <li> Abano Terme <p> (Italia) <br/>
+	             2011/2012 </p>
+	             </li>
+	             <li> Roma <p> (Italia) <br/>
+	             2011 </p>
+	             </li>
+               </ol>
+           </aside>
+            <div>
+             <h3> Le mie preferite perchè: </h3>
+            </div>
+           <hr/>
+           <Footer role="contentinfo">
+               <p> &copy; 2015 MP86
+               </p>
+           </footer>
+       </body>
+</html>
